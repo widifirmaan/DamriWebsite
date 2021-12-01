@@ -1,0 +1,6 @@
+[30-Nov-2021 08:50:37 UTC] PHP Fatal error:  Can't use method return value in write context in /home/arunapic/public_html/widifirmaan.web.id/damriproject/application/controllers/Admin.php on line 8
+[30-Nov-2021 08:51:12 UTC] PHP Fatal error:  Can't use method return value in write context in /home/arunapic/public_html/widifirmaan.web.id/damriproject/application/controllers/Admin.php on line 8
+[30-Nov-2021 08:51:14 UTC] PHP Fatal error:  Can't use method return value in write context in /home/arunapic/public_html/widifirmaan.web.id/damriproject/application/controllers/Admin.php on line 8
+[30-Nov-2021 08:51:15 UTC] PHP Fatal error:  Can't use method return value in write context in /home/arunapic/public_html/widifirmaan.web.id/damriproject/application/controllers/Admin.php on line 8
+[30-Nov-2021 09:07:12 UTC] PHP Fatal error:  Can't use method return value in write context in /home/arunapic/public_html/widifirmaan.web.id/damriproject/application/controllers/Admin.php on line 7
+[30-Nov-2021 09:07:17 UTC] PHP Fatal error:  Can't use method return value in write context in /home/arunapic/public_html/widifirmaan.web.id/damriproject/application/controllers/Admin.php on line 7
