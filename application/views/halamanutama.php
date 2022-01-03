@@ -99,6 +99,7 @@
         <div class="col-lg-4 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
           <h1 data-aos="fade-up">Dapatkan DAMRI Apps di Play Store</h1>
           <h2 data-aos="fade-up" data-aos-delay="400">Melayani Tiket Pemesanan Bus</h2>
+          Login Admin: admin@admin.com pass admin, User: User1@user.com pass user, User: User2@user.com pass user,
           <div data-aos="fade-up" data-aos-delay="800">
             <a href="#about" class="btn-get-started scrollto">Get Started</a>
           </div>
